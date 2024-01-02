@@ -1,1 +1,1 @@
-- [Pão de Queijo](./Examples as Recipes/receita-teste.recipe)!
+- [Pão de Queijo](./Examples as Recipes/receita-teste.recipe)
