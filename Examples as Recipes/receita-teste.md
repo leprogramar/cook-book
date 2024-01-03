@@ -1,5 +1,5 @@
 # Pão de queijo mineiro
-<body bgcolor="#396695">
+
 
 > receita de pao de queijo 
 
