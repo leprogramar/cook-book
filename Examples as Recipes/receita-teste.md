@@ -4,12 +4,12 @@
 
 ### Ingredients
 
-[ ] 300 ml de leite integral
-[ ] 300 ml de agua
-[ ] 200 ml de oleo de soja
-[ ] 1 kg de plovilho doce 
-[ ] 8 ovos grandes de galinha
-[ ] 250 gramas de Queijo Canastra
+- [ ] 300 ml de leite integral
+- [ ] 300 ml de agua
+- [ ] 200 ml de oleo de soja
+- [ ] 1 kg de plovilho doce 
+- [ ] 8 ovos grandes de galinha
+- [ ] 250 gramas de Queijo Canastra
 
 ### Modo de preparo
 
