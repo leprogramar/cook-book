@@ -1,2 +1,3 @@
-- [Pão de Queijo](./Examples as Recipes/receita-teste.md)
+- [Pão de Queijo Mineiro](./Examples as Recipes/receita-teste.md)
+
 
