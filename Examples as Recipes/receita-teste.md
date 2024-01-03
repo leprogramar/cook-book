@@ -1,7 +1,9 @@
+<div style="background-color: #5D6D7E; 
+ padding: 10px;">
+
+
 # Pão de queijo mineiro
-
-
-> receita de pao de queijo 
+ 
 
 ### Ingredients
 
@@ -16,3 +18,5 @@
 
 Misture o leite, oleo e agua e ferva. Em um bool coloque o polvilho doce e acrescente os ingredientes fervidos. Misture bem e aguarde esfriar. Misture os ovos e o queijo ralado. 
 Unte a mão com oleo e faça bolinhas com a massa. Coloque as bolinhas em um tabuleiro untado e leve ao forno pre-aquecido a 180 graus.
+
+</div>
